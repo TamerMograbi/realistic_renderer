@@ -75,6 +75,10 @@ rendering complex scene with many different materials:
 
 ![alt text](https://raw.githubusercontent.com/TamerMograbi/realistic_renderer/master/mine-veach_path.png)
 
+Note:
+
+Had to remove code so it won't be copied by other students :)
+
 
 
 
